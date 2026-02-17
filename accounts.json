@@ -1,0 +1,74 @@
+[
+  {
+    "id": "player2431",
+    "username": "대호",
+    "password": "1234",
+    "createdAt": 1771339186876,
+    "gameData": {
+      "money": 109,
+      "power": 22,
+      "upgradeCost": 850,
+      "incomePerSecond": 0,
+      "rebirth": 0,
+      "catData": {
+        "korshort": {
+          "name": "코숏",
+          "cost": 50,
+          "income": 1,
+          "owned": false
+        },
+        "persian": {
+          "name": "페르시안",
+          "cost": 200,
+          "income": 5,
+          "owned": false
+        },
+        "russian": {
+          "name": "러시안 블루",
+          "cost": 1000,
+          "income": 30,
+          "owned": false
+        },
+        "siamese": {
+          "name": "샴",
+          "cost": 5000,
+          "income": 150,
+          "owned": false
+        },
+        "munchkin": {
+          "name": "먼치킨",
+          "cost": 20000,
+          "income": 700,
+          "owned": false
+        },
+        "maincoon": {
+          "name": "메인쿤",
+          "cost": 100000,
+          "income": 4000,
+          "owned": false
+        },
+        "ragdoll": {
+          "name": "랙돌",
+          "cost": 1000000,
+          "income": 50000,
+          "owned": false
+        }
+      }
+    },
+    "lastSaved": 1771340328613
+  },
+  {
+    "id": "player3471",
+    "username": "Test1234",
+    "password": "1234",
+    "createdAt": 1771339200525,
+    "gameData": {
+      "money": 0,
+      "power": 1,
+      "upgradeCost": 50,
+      "incomePerSecond": 0,
+      "rebirth": 0,
+      "catData": {}
+    }
+  }
+]
